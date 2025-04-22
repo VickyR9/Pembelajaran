@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Birthday Kikiiiiii</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(#fff8f0, #ffe4ec);
+      color: #333;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #ff6a88;
+    }
+    p {
+      font-size: 1.2rem;
+      margin: 1rem 0;
+    }
+    .photo {
+      width: 90%;
+      max-width: 400px;
+      border-radius: 20px;
+      margin: 1.5rem auto;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .section {
+      margin: 3rem 1rem;
+    }
+    .letter {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 1rem;
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      margin: 4rem 0 2rem;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Happy Birthday, Kikiiiiii!</h1>
+    <p>29 April, hari spesial buat cewek paling spesial</p>
+  </header>
+
+  <section class="section">
+    <img src="/mnt/data/sazumi-2048x3640.jpg" alt="Foto Kiki 1" class="photo">
+    <img src="/mnt/data/sazumi-2048x4552 (2).jpg" alt="Foto Kiki 2" class="photo">
+    <img src="/mnt/data/sazumi-2048x2052.jpg" alt="Foto Kiki 3" class="photo">
+  </section>
+
+  <section class="section letter">
+    <h2>Surat buat Kiki</h2>
+    <p>
+      Hai Kiki sayang, selamat ulang tahun yaa! Walaupun kita LDR dan aku nggak bisa peluk kamu langsung, aku harap lewat website kecil ini kamu bisa ngerasain seberapa besar rasa sayang aku buat kamu. Kamu itu cahaya, kamu itu rumah. Terima kasih karena udah selalu kuat dan manis. Semoga semua harapan kamu di tahun ini bisa tercapai satu-satu. Dan semoga segera, aku bisa ngucapin ini langsung di depan kamu. Aku sayang kamu, selalu.
+    </p>
+  </section>
+
+  <footer>
+    Dari aku, yang selalu mikirin kamu.
+  </footer>
+</body>
+</html>
